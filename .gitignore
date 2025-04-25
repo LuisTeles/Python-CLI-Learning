@@ -1,0 +1,23 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Poetry virtual environment
+.venv/
+
+# SQLite database files
+db/*.db
+
+# Environment files
+.env
+*.env
+
+# Editor config
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
